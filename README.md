@@ -1,4 +1,4 @@
-# 🚀 Power BI 📊 con Conexión a MySQL 🛢️
+# 🚀 Power BI 📊 con Conexión a MySQL 🛢️ y Medidas DAX ⚡ RELOADED
 
 ## 📖 Descripción
 
@@ -10,6 +10,7 @@ En este sprint no se utilizará Python, sino que trabajaré directamente con Pow
 
 ## 🎯 Objetivos
 - Conectar Power BI con MySQL para obtener los datos de manera eficiente.
+- Aplicar medidas DAX para realizar cálculos y mejorar el análisis.
 - Crear visualizaciones interactivas y claras en Power BI.
 - Mejorar la presentación de la información con gráficos bien estructurados.
 - Asegurarme de que las visualizaciones sean comprensibles y efectivas.
@@ -17,5 +18,6 @@ En este sprint no se utilizará Python, sino que trabajaré directamente con Pow
 ## 🛠️ Tecnologías que usaré
 - Power BI 📊
 - MySQL 🛢️
+- DAX (Data Analysis Expressions) ⚡
 
 
