@@ -1,6 +1,6 @@
-🚀 Power BI 📊 con Conexión a MySQL 🛢️
+# 🚀 Power BI 📊 con Conexión a MySQL 🛢️
 
-📖 Descripción
+## 📖 Descripción
 
 En este sprint, comenzaré a aplicar mis conocimientos prácticos en Power BI utilizando una base de datos previamente trabajada. Esta base contiene información sobre una empresa dedicada a la venta de productos online.
 
@@ -8,13 +8,13 @@ Mi enfoque estará en mejorar la legibilidad de las visualizaciones, asegurándo
 
 En este sprint no se utilizará Python, sino que trabajaré directamente con Power BI y su conexión con MySQL para extraer y visualizar los datos.
 
-🎯 Objetivos
+## 🎯 Objetivos
 - Conectar Power BI con MySQL para obtener los datos de manera eficiente.
 - Crear visualizaciones interactivas y claras en Power BI.
 - Mejorar la presentación de la información con gráficos bien estructurados.
 - Asegurarme de que las visualizaciones sean comprensibles y efectivas.
 
-🛠️ Tecnologías que usaré
+## 🛠️ Tecnologías que usaré
 - Power BI 📊
 - MySQL 🛢️
 
